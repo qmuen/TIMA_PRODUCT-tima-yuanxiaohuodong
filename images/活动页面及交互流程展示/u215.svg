@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="215px" height="173px" viewBox="0 0 215 173" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>zanwuneirong</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFE3DC" offset="0%"></stop>
+            <stop stop-color="#FFF5F3" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="55.1214863%" y1="11.0182943%" x2="55.1214863%" y2="87.3449068%" id="linearGradient-2">
+            <stop stop-color="#FFF1ED" offset="0%"></stop>
+            <stop stop-color="#FFD7CF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="55.1214863%" y1="11.0182943%" x2="55.1214863%" y2="87.3449068%" id="linearGradient-3">
+            <stop stop-color="#FFE7DF" offset="0%"></stop>
+            <stop stop-color="#FFD1C6" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="55.1214863%" y1="11.0182943%" x2="55.1214863%" y2="87.3449068%" id="linearGradient-4">
+            <stop stop-color="#FFF1ED" offset="0%"></stop>
+            <stop stop-color="#FFD7CF" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-4.6%" y="-6.7%" width="109.2%" height="113.4%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-4.5%" y="-6.0%" width="109.1%" height="111.9%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="55.1214863%" y1="11.0182943%" x2="55.1214863%" y2="87.3449068%" id="linearGradient-7">
+            <stop stop-color="#FFF1ED" offset="0%"></stop>
+            <stop stop-color="#FFD7CF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="55.1214863%" y1="11.0182943%" x2="55.1214863%" y2="87.3449068%" id="linearGradient-8">
+            <stop stop-color="#FFF1ED" offset="0%"></stop>
+            <stop stop-color="#FFD7CF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="v1.1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="我的活动-发布的活动-缺省图" transform="translate(-80.000000, -198.000000)">
+            <g id="zanwuneirong" transform="translate(80.000000, 198.000000)">
+                <g id="编组-2">
+                    <ellipse id="椭圆形" fill="url(#linearGradient-1)" cx="107.5" cy="142" rx="107.5" ry="31"></ellipse>
+                    <polygon id="路径-3" fill="url(#linearGradient-2)" points="106.228452 56.83245 106.228452 145.975525 172.938268 123.041406 172.938268 35.7133718"></polygon>
+                    <polygon id="路径-4" fill="url(#linearGradient-3)" points="106.228452 145.975525 41 124.259079 41 35.7133718 106.228452 56.83245"></polygon>
+                    <polygon id="路径-9" fill="#FFFFFF" opacity="0.300000012" points="65 81.7401625 65 131.971388 77.1186009 136.376048 77.1186009 80"></polygon>
+                    <polygon id="路径-9备份" fill="#FFFFFF" opacity="0.300000012" transform="translate(145.059300, 106.188024) scale(-1, 1) translate(-145.059300, -106.188024) " points="139 79.7401625 139 129.971388 151.118601 134.376048 151.118601 78"></polygon>
+                    <polygon id="路径-5" fill="url(#linearGradient-4)" points="41 35.7133718 106.228452 56.83245 172.938268 35.7133718 106.969134 17"></polygon>
+                    <polygon id="路径-7" fill="#FF643F" opacity="0.120396205" filter="url(#filter-5)" points="106.228452 56.83245 91.8270429 101.647875 41 83.2150161 41 62.0730899"></polygon>
+                    <polygon id="路径-8" fill="#FF643F" opacity="0.120396205" filter="url(#filter-6)" points="106.969134 56.83245 123.305058 99.8480133 172.938268 81.1615323 172.938268 49.5784046"></polygon>
+                    <polygon id="路径-6" fill="#FFF5F3" points="41 35.7133718 19 65.3770949 80.9228949 88.432808 106.228452 56.83245"></polygon>
+                    <polygon id="路径-6备份" fill="#FFF5F3" transform="translate(150.799881, 62.573090) scale(-1, 1) translate(-150.799881, -62.573090) " points="128.661493 35.7133718 106.228452 65.2628257 171.371219 89.432808 195.371309 56.83245"></polygon>
+                    <rect id="矩形" fill="url(#linearGradient-7)" transform="translate(174.331329, 7.593589) rotate(-330.000000) translate(-174.331329, -7.593589) " x="172.331329" y="2.09358891" width="4" height="11" rx="2"></rect>
+                    <rect id="矩形备份" fill="url(#linearGradient-8)" x="164.403126" y="0.825639721" width="4" height="9" rx="2"></rect>
+                    <rect id="矩形备份-2" fill="url(#linearGradient-8)" transform="translate(180.259533, 13.325640) rotate(-300.000000) translate(-180.259533, -13.325640) " x="178.259533" y="8.82563972" width="4" height="9" rx="2"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
