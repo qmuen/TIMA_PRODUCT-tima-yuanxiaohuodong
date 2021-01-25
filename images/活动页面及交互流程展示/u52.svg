@@ -1,19 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="41px" height="41px" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <filter x="41px" y="228px" width="41px" height="41px" filterUnits="userSpaceOnUse" id="filter75">
-      <feOffset dx="2" dy="2" in="SourceAlpha" result="shadowOffsetInner" />
-      <feGaussianBlur stdDeviation="2.5" in="shadowOffsetInner" result="shadowGaussian" />
-      <feComposite in2="shadowGaussian" operator="atop" in="SourceAlpha" result="shadowComposite" />
-      <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.164705882352941 0  " in="shadowComposite" />
-    </filter>
-    <g id="widget76">
-      <path d="M 59.5 232  C 67.62 232  74 238.38  74 246.5  C 74 254.62  67.62 261  59.5 261  C 51.38 261  45 254.62  45 246.5  C 45 238.38  51.38 232  59.5 232  Z " fill-rule="nonzero" fill="#44474d" stroke="none" />
-      <path d="M 59.5 232  C 67.62 232  74 238.38  74 246.5  C 74 254.62  67.62 261  59.5 261  C 51.38 261  45 254.62  45 246.5  C 45 238.38  51.38 232  59.5 232  Z " stroke-width="2" stroke="#ffffff" fill="none" />
-    </g>
-  </defs>
-  <g transform="matrix(1 0 0 1 -41 -228 )">
-    <use xlink:href="#widget76" filter="url(#filter75)" />
-    <use xlink:href="#widget76" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="16px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1 0 0 1 -106 -19 )">
+    <path d="M 14.8347826086957 9.95747745945947  C 9.43983997152411 9.94358251226138  4.24172981392447 11.9720083769417  0.295652173913046 15.630990972973  C 1.0028985326087 5.37945945945946  5.88405798913044 0.178738702702703  14.8347826086957 0.178738756756757  C 17.5497824123514 0.178738756756757  19.7507246195652 2.36778397906668  19.7507246195652 5.06810810810811  C 19.7507246195652 7.76843223714954  17.5497824123514 9.95747745945947  14.8347826086957 9.95747745945947  Z " fill-rule="nonzero" fill="#dfdfdf" stroke="none" transform="matrix(1 0 0 1 106 19 )" />
   </g>
 </svg>
