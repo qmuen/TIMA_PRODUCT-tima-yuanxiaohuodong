@@ -1,5 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="108px" height="12px" preserveAspectRatio="xMinYMid meet" viewBox="453 777  108 10" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 555.5 651  L 555.5 777  A 5 5 0 0 1 550.5 782.5 L 464 782.5  A 5 5 0 0 0 459.5 787.5 L 459.5 794  " stroke-width="3" stroke="#868686" fill="none" />
-  <path d="M 450.6 792  L 459.5 801  L 468.4 792  L 450.6 792  Z " fill-rule="nonzero" fill="#868686" stroke="none" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="79px" height="12px" preserveAspectRatio="xMinYMid meet" viewBox="386 904  79 10" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="clip248">
+      <path d="M 410.16455078125 896  L 439.83544921875 896  L 439.83544921875 921  L 410.16455078125 921  Z M 381 887  L 462 887  L 462 942  L 381 942  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <path d="M 459.5 887  L 459.5 904  A 5 5 0 0 1 454.5 909.5 L 397 909.5  A 5 5 0 0 0 392.5 914.5 L 392.5 924  " stroke-width="3" stroke="#868686" fill="none" mask="url(#clip248)" />
+  <path d="M 383.6 922  L 392.5 931  L 401.4 922  L 383.6 922  Z " fill-rule="nonzero" fill="#868686" stroke="none" mask="url(#clip248)" />
 </svg>
