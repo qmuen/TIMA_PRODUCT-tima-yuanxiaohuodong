@@ -129,4 +129,38 @@
 }
 .icon {
 }
+.box_21 {
+}
+.image1 {
+  color:#000000;
+}
+.label1 {
+  font-size:14px;
+  text-align:left;
+}
+.shape1 {
+}
+.ellipse1 {
+}
+.heading_1 {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.paragraph {
+  text-align:left;
+}
+.vertical_line {
+}
+.heading_2 {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.horizontal_line {
+}
 textarea, select, input, button { outline: none; }
